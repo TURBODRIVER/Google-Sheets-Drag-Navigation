@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Google Sheets Drag Navigation
-// @version      1.0
+// @version      1.0.1
 // @description  Middle Mouse Click to drag navigate Google Sheets.
 // @author       TURBODRIVER
-// @match        https://docs.google.com/spreadsheets/d/*
-// @grant        none
+// @match        *://docs.google.com/spreadsheets/d/*
+// @match        *://docs.google.com/spreadsheets/u/*
 // ==/UserScript==
 
 (function() {
